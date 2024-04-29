@@ -10,7 +10,9 @@ Some Important things before you go through our Git:
 
 **Issued by IBM**
 
-**Getting Started with Enterprise-grade AI**
+**1.Getting Started with Enterprise-grade AI**
 https://www.credly.com/badges/c41a0916-c1b5-42ac-94d8-05341cc84fca/public_url
-**Enterprise Data Science in Practice**
+
+
+**2.Enterprise Data Science in Practice**
 https://www.credly.com/badges/63b4c80b-401f-4465-b0f5-24b7f0046439/public_url
